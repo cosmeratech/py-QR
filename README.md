@@ -6,6 +6,9 @@ A Python script that generates QR codes from URLs and displays them directly in 
 
 ```bash
 pip install -r requirements.txt
+
+// MAC OS
+pip3 install -r requirements.txt
 ```
 
 ## Usage
