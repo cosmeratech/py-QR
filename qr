@@ -1,0 +1,5 @@
+#!/bin/bash
+# QR Code Generator - Quick terminal tool
+# Usage: ./qr [url] or ./qr -c (clipboard) or ./qr -i (input)
+
+python3 qr_generator.py "$@"
